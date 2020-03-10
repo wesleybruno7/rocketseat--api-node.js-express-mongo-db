@@ -1,5 +1,5 @@
 const jwt = require('jsonwebtoken')
-const authConfig = require('../config/auth')
+const authConfig = require('../../config/auth.json')
 
 // obs.: chamar o next() faz com que prossiga para o controller
 module.exports = (req, res, next) => {
