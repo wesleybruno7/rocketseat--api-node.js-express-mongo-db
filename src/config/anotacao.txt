@@ -1,0 +1,4 @@
+Usei o site: https://www.md5hashgenerator.com/
+Para converter a palavra: rocketseattutorial 
+Em um hash md5: c184b269173f1af5bba2ead07d076564
+que sera utilizada pelo jwt como secret, no arquivo auth.json
